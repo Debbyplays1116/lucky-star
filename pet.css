@@ -1,0 +1,81 @@
+h2{
+    text-align: center;
+    font-style: italic;
+    font-size: xx-large;
+    color: blue;
+    background-color: crimson;
+}
+#cram{
+    text-align: center;
+    font-style: italic;
+    font-size: xx-large;
+    color: blue;
+    background-color: crimson;
+   position: absolute;
+    top: 30%;
+    left: 50%;
+    transform: translate(-50%, -50%)
+}
+#ram{
+    text-align: center;
+    font-style: italic;
+    font-size: xx-large;
+    color: blue;
+    background-color: crimson;
+   position: absolute;
+    top: 10%;
+    left: 50%;
+    transform: translate(-50%, -50%)
+}
+button{
+    color: cornflowerblue;
+    border: 1px solid blue;
+    text-align: center;
+    align-items: center;
+    font-size: x-large;
+    font-style: italic;
+    width: 8rem;
+    height: 2rem;
+    border-radius: 10px;
+     position: absolute;
+    top: 25%;
+    left: 20%;
+    transform: translate(-50%, -50%);
+}
+#response{
+    align-items:left ;
+    color:blue;
+    font-style: italic;
+    font-size:x-large;
+    text-align: left;
+     position: absolute;
+    top: 28%;
+    left: 17%;
+    transform: translate(-50%, -50%);
+}
+input{
+    align-items: left;
+    font-size: x-large;
+    font-style: italic;
+    border:blue;
+    text-align: left;
+    width: 8rem;
+    border-radius: 10px;
+    height: 3rem;
+     position: absolute;
+    top: 25%;
+    left: 10%;
+    transform: translate(-50%, -50%);
+}
+body{
+    background-color:lightpink;
+    text-align: center;
+}
+div{
+    border-radius: 10px;
+    width: 80%;
+    text-align: center;
+    background-color:dodgerblue;
+    height: 20vh;
+    margin-left: 10rem;
+}
